@@ -33,7 +33,7 @@ body {
   margin-left: 5px;
 }
 .city {
-  font-size: 38px;
+ font-size: 38px;
   margin: 0;
   line-height: 48px;
 }
@@ -54,12 +54,10 @@ main {
   justify-content: space-between;
 }
 .temperature-icon {
-  width: 120px;
+  width: 88px;
   line-height: 88px;
-  font-size: 10px;
 }
 .temperature-value {
-  margin-left: 20px;
   font-size: 88px;
   font-weight: bold;
   line-height: 88px;
