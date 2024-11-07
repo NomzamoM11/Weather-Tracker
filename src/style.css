@@ -90,8 +90,10 @@ header {
   margin-bottom: 10px;
 }
 .weather-forecast-icon {
-  font-size: 38px;
-  text-align: center;
+  display: block;
+  width: 88px;
+  height: 88px;
+  margin: 0 auto;
 }
 .weather-forecast-temperatures {
   display: flex;
